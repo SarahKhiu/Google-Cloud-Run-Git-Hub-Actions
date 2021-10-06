@@ -1,3 +1,5 @@
+*Using this sample project from dylanroy/
+
 # Google Cloud Run Github Actions
 A sample project with a Github Action for deploying to Google Cloud Run.
 
@@ -17,9 +19,6 @@ After which will need to give the service account the following roles.
 
 ### 2. Create Github Secrets
 You will next need to navigate to the Settings Dashboard where you can add the following Github secrets. For this repo the link will be the following if you want to navigate directly to the location for your repo.
-
-
-https://github.com/dylanroy/google-cloud-run-github-actions/settings/secrets
 
 Here we setup our Github secrets:  
  - **GCP_CREDENTIALS** - This is your service account credentials that you will need to generate in the Google Cloud Console.  
