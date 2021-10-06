@@ -1,4 +1,6 @@
-*Using this sample project from dylanroy/google-cloud-run-github-actions, steps and goals are as outlined below:
+*Using this sample project from dylanroy/google-cloud-run-github-actions as an example, steps and goals are as outlined below:
+<br> <br>
+This repository is also linked with this **DevOps-Project** repository (https://github.com/SarahKhiu/DevOps-Project#:~:text=Explore-,SarahKhiu,DevOps-Project,-Public) for the DevOps Project Show and Tell.
 
 # Google Cloud Run Github Actions
 A sample project with a Github Action for deploying to Google Cloud Run.
