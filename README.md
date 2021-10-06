@@ -1,4 +1,4 @@
-*Using this sample project from dylanroy/google-cloud-run-github-actions, steps and goals are outlined as below:
+*Using this sample project from dylanroy/google-cloud-run-github-actions, steps and goals are as outlined below:
 
 # Google Cloud Run Github Actions
 A sample project with a Github Action for deploying to Google Cloud Run.
